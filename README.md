@@ -1,33 +1,74 @@
-## 👋 Hi, I'm Dinuli Disara
+# Hi, I'm Dinuli Disara 👋
 
-🎓 **IT Undergraduate** | 🔐 **Aspiring Cybersecurity Engineer**  
+🎓 B.Sc. (Hons) Information Technology Undergraduate at the University of Kelaniya
+
+🏅 Dean's List Awardee
+
+💻 Passionate about Software Development, Cybersecurity, Networking, and Artificial Intelligence
+
 📍 Sri Lanka
 
-### 🚀 What I'm Building
-- **Cybersecurity Portfolio:** Hands-on labs, projects, and documented learning
-- **Certification Path:** CompTIA Security+ (in progress)
-- **Practical Skills:** TryHackMe rooms, network security, SIEM basics
+## About Me
 
-### 📂 Featured Projects
-**[Cybersecurity Portfolio](https://github.com/Dinuli-Disara/cybersecurity-portfolio)**  
-My growing collection of security labs, notes, and practical experiments.
+I enjoy building practical software solutions and exploring emerging technologies. Through academic and personal projects, I have gained experience in full-stack web development, databases, networking concepts, and cybersecurity fundamentals.
 
-### 🔧 Technical Toolkit
-- **Security:** Network Defense, Threat Detection, Vulnerability Assessment
-- **Platforms:** Linux, Windows, Virtualization
-- **Tools:** Wireshark, Nmap, ELK Stack (learning)
-- **Languages:** Python, Java, Bash
+I am currently seeking internship opportunities where I can apply my technical knowledge, contribute to real-world projects, and continue growing as an IT professional.
 
-### 📊 Current Learning
-1. **CompTIA Security+** - Building foundational knowledge
-2. **TryHackMe** - Completing Cyber Defense path
-3. **Home Lab** - Planning SOC lab setup
+## Technical Skills
 
-### 📫 Let's Connect
-- **LinkedIn:** https://www.linkedin.com/in/dinuli-disara/
-- **TryHackMe:** https://tryhackme.com/p/disara184
-- **Email:** disara184@gmail.com
+### Programming Languages
 
----
+* Java
+* JavaScript
+* Python
+* C++
+* Bash
 
-*"The expert in anything was once a beginner." - Documenting my journey from beginner to security professional.*
+### Web Development
+
+* React
+* Node.js
+* Express.js
+* REST APIs
+
+### Databases
+
+* MongoDB
+* MySQL
+
+### Networking & Cybersecurity
+
+* Network Security
+* Wireshark
+* Nmap
+* Linux
+* Vulnerability Assessment
+* Threat Detection
+
+## Featured Projects
+
+### Job Portal System
+
+Full-stack recruitment platform with role-based authentication, recruiter dashboards, job applications, and profile management.
+
+### AI Chatbot
+
+Intelligent chatbot developed using Large Language Model concepts and conversational AI techniques.
+
+### Authentication Service
+
+Secure authentication system implementing user registration, login, authorization, and security best practices.
+
+## Certifications
+
+* Google Cybersecurity Professional Certificate
+* Cisco Networking Basics
+* Cisco Introduction to Cybersecurity
+
+## Connect With Me
+
+LinkedIn: linkedin.com/in/dinuli-disara
+
+TryHackMe: tryhackme.com/p/disara184
+
+Email: [disara184@gmail.com](mailto:disara184@gmail.com)
